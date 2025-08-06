@@ -17,8 +17,6 @@ This repository showcases SQL-based data analysis projects using datasets from r
 - Summary statistics
 - Segmentation and pattern discovery
 
-Each project contains schema setup, SQL queries, and business insights.
-
 ---
 > ✅ Tools: SQLite, BigQuery  
 > ✨ Skills: CTEs, Window Functions, Aggregates, Joins, Business Thinking
